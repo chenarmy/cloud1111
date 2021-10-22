@@ -9,8 +9,8 @@
 |[京东云](https://www.jdcloud.com)| https://www.jdcloud.com/cn/activity/20211111 |
 |[盛大云](http://www.grandcloud.cn)||
 |[华为云](https://www.huaweicloud.com)||
-|[七牛云](https://qiniu.com)||
-|[天翼云](https://www.ctyun.cn)||
+|[七牛云](https://qiniu.com)|https://marketing.qiniu.com/activity/2021-1111-act|
+|[天翼云](https://www.ctyun.cn)|https://www.ctyun.cn/h5/activity/2021/1111|
 |[金山云](https://www.ksyun.com)||
 |[移动云](https://ecloud.10086.cn)| https://ecloud.10086.cn/home/activity/5b3e829074d04c92a5659c7dca8b5cfd |
 |[苏宁云](http://www.suningcloud.com)||
