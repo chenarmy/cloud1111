@@ -7,7 +7,7 @@
 |[百度智能云](https://cloud.baidu.com)| https://cloud.baidu.com/campaign/20211111/index.html|
 |[新浪云](https://www.sinacloud.com)||
 |[京东云](https://www.jdcloud.com)| https://www.jdcloud.com/cn/activity/20211111 |
-|盛大云||
+|[盛大云](http://www.grandcloud.cn)||
 |华为云||
 |七牛云||
 |天翼云||
