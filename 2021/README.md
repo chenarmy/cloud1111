@@ -1,6 +1,6 @@
 | 服务商 | 链接地址 | 2核4G | 2核8G
 | :-: | :-: | :-: | :-: |
-|(腾讯云)[https://cloud.tencent.com]| https://cloud.tencent.com/act/pre-2021double11 |
+|[腾讯云](https://cloud.tencent.com)| https://cloud.tencent.com/act/pre-2021double11 |
 |(UCloud)[https://www.ucloud.cn]| https://www.ucloud.cn/site/active/kuaijie.html |
 |(阿里云)[https://www.aliyun.com]|https://www.aliyun.com/activity/1111/yunqi|
 |(青云)[https://www.qingcloud.com]| https://www.qingcloud.com/promotion2021 |
