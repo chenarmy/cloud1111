@@ -2,7 +2,7 @@
 | :-: | :-: | :-: | :-: |
 |[腾讯云](https://cloud.tencent.com)| https://cloud.tencent.com/act/pre-2021double11 | 151 | 215 |
 |[UCloud](https://www.ucloud.cn)| https://www.ucloud.cn/site/active/kuaijie.html | 99 | 147 |
-|[阿里云](https://www.aliyun.com)|[https://www.aliyun.com/activity/1111/yunqi](https://www.aliyun.com/activity/1111/index?spm=5176.19720258.J_2937333540.1.e9392c4a6tS6Y3&scm=20140722.B_9217.P_5298.MO_402-ST_4386-ID_26613-CID_26613-V_1&accounttraceid=858e5676bff647148b2507291cf2e13capfy)| 
+|[阿里云](https://www.aliyun.com)|https://www.aliyun.com/activity/1111/index| 188 | - |
 |[青云](https://www.qingcloud.com)| https://www.qingcloud.com/promotion2021 | 1 | - |
 |[百度智能云](https://cloud.baidu.com)| https://cloud.baidu.com/campaign/20211111/index.html | 674 | - | 
 |[新浪云](https://www.sinacloud.com)||
