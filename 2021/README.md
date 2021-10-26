@@ -8,7 +8,7 @@
 |[新浪云](https://www.sinacloud.com)||
 |[京东云](https://www.jdcloud.com)| https://www.jdcloud.com/cn/activity/20211111 | 1058.88 | 1371.72 | 
 |[盛大云](http://www.grandcloud.cn)||
-|[华为云](https://www.huaweicloud.com)||
+|[华为云](https://www.huaweicloud.com)|https://activity.huaweicloud.com/1111_promotion/index.html|239|516.41|
 |[七牛云](https://qiniu.com)|https://marketing.qiniu.com/activity/2021-1111-act| 2427.07 | - |
 |[天翼云](https://www.ctyun.cn)|https://www.ctyun.cn/h5/activity/2021/1111| 159.64 | - | 
 |[金山云](https://www.ksyun.com)||
