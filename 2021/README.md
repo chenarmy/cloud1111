@@ -1,9 +1,9 @@
-| 服务商 | 链接地址 | 2核4G | 2核8G
-| :-: | :-: | :-: | :-: |
-|[腾讯云](https://cloud.tencent.com)| https://cloud.tencent.com/act/pre-2021double11 | 151 | 215 |
-|[UCloud](https://www.ucloud.cn)| https://www.ucloud.cn/site/active/kuaijie.html | 99 | 147 |
+| 服务商 | 链接地址 | 2核4G 1年/3年 | 2核8G 1年/3年 |推广
+| :-: | :-: | :-: | :-: | :-: |
+|[腾讯云](https://cloud.tencent.com)| https://cloud.tencent.com/act/pre-2021double11 | 151/375 | 215/535 |10%
+|[UCloud](https://www.ucloud.cn)| https://www.ucloud.cn/site/active/kuaijie.html | 99/269 | 147/399 |20%
 |[阿里云](https://www.aliyun.com)|https://www.aliyun.com/activity/1111/index| 188 | - |
-|[青云](https://www.qingcloud.com)| https://www.qingcloud.com/promotion2021 | 1 | - |
+|[青云](https://www.qingcloud.com)| https://www.qingcloud.com/promotion2021 | 119/323 | 177/479 |
 |[百度智能云](https://cloud.baidu.com)| https://cloud.baidu.com/campaign/20211111/index.html | 674 | - | 
 |[新浪云](https://www.sinacloud.com)||
 |[京东云](https://www.jdcloud.com)| https://www.jdcloud.com/cn/activity/20211111 | 1058.88 | 1371.72 | 
